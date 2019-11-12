@@ -51,9 +51,11 @@ To import the project into Eclipse, first clone the project into a local Git rep
 
 ## Running the tests
 
-Install Postman in order to test the API implementations.
+Install Postman in order to test the API implementations in 2 ways:
 
-Go to the URL "http://localhost:8080/<api_design_mapping>" via Postman.
+> 1. Go to the URL "http://localhost:8080/<api_design_mapping>" via Postman.
+
+> 2. Import [json
 
 ## Deployment
 

@@ -124,7 +124,7 @@ public class DocumentController {
 		documentDao.saveRevision(revision);
 	}
 
-	@GetMapping("downloadFile/{file_id}")
+	@GetMapping("files/{file_id}")
 	@ResponseStatus(HttpStatus.ACCEPTED)
 	public ResponseEntity<Resource> downloadFile(@PathVariable Integer file_id) {
         // Load file from database

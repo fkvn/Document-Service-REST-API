@@ -53,9 +53,9 @@ To import the project into Eclipse, first clone the project into a local Git rep
 
 Install Postman in order to test the API implementations in 2 ways:
 
-> 1. Go to the URL "http://localhost:8080/<api_design_mapping>" via Postman.
+> A. Go to the URL "http://localhost:8080/<api_design_mapping>" via Postman.
 
-> 2. Import [json
+> B. Import [Postman_collection.json](https://github.com/fkvn/Document-Service-REST-API/blob/master/Postman_collection.json) to Postman application, then test the endpoints.
 
 ## Deployment
 

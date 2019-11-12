@@ -212,14 +212,14 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:8080/downloadFile/38",
+					"raw": "http://localhost:8080/files/38",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
 					"port": "8080",
 					"path": [
-						"downloadFile",
+						"files",
 						"38"
 					]
 				}

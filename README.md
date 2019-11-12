@@ -2,7 +2,7 @@
 
  Document Service REST API that supports the document operations. 
 
-## Description
+### Description
  
 Implement a Document Service REST API that supports the document operations. In particular, a document has a name, and one or more revisions. Each revision has a file uploaded by a user, some notes on the revision (optional), and a timestamp of when the revision was created or updated. The API should include the following endpoints (i.e. operations):
 

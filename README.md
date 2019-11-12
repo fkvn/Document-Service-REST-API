@@ -1,6 +1,6 @@
 # Document Services
 
- Document Service REST API that supports the document operations. 
+ Document Service REST API that supports the document operations based on homework from Advanced Topic Web Development class of M.S Computer Science, Cal State LA.
 
 ### Description
  
